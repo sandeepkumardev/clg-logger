@@ -1,6 +1,6 @@
 {
   "name": "clg-logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple logger with colors for NodeJS.",
   "main": "index.js",
   "type": "module",
