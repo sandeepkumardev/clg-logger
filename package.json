@@ -4,10 +4,7 @@
   "description": "A simple logger with colors for NodeJS.",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "patch": "npm version patch",
-    "publish": "npm publish"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sandeepkumardev/clg-logger.git"
