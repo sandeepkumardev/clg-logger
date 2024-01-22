@@ -1,11 +1,12 @@
 {
   "name": "clg-logger",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A simple logger with colors for NodeJS.",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "publish": "npm version patch && npm publish"
+    "patch": "npm version patch",
+    "publish": "npm publish"
   },
   "repository": {
     "type": "git",
