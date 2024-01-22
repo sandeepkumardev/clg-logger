@@ -1,4 +1,4 @@
-## A simple logger with levels for NodeJS.
+## A simple logger with diffrent levels for NodeJS.
 
 ## Install
 
